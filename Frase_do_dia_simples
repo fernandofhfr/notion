@@ -47,19 +47,19 @@
 <script>
 
 quotes=[
-"Learning, like success, is anything but a linear process",
-"I am in competition with no one. I have no desire to play the game of being better than anyone. I am simply trying to be better than the person I was yesterday.",
-"If you want to be interesting, you have to be interested.",
-"It's supposed to be hard. If it were easy, everyone would do it.",
-"Don’t worry if you’re not where you want to be yet. Great things take time. ",
-"If it's important you'll find a way. If it's not, you'll find an excuse.",
-"Most people overestimate what they can do in one year and underestimate what they can do in ten years.",
-"A goal without a plan is just a wish.",
-"change your 24 hours and you'll change your life",
-"Stop thinking you are not qualified, not fit, or not experienced enough,",
-"Growth takes place when you start doing stuff you are not qualified to do.",
-"Be who you are and say what you feel, because those who mind don't matter, and those who matter don't mind.",
-"Twenty years from now you will be more disappointed by the things that you didn't do than by the ones you did do. So throw off the bowlines. Sail away from the safe harbor. Catch the trade winds in your sails. Explore. Dream. Discover.",
+"O aprendizado, como o sucesso, é tudo menos um processo linear",
+"Não estou competindo com ninguém. Não tenho vontade de jogar o jogo de ser melhor do que ninguém. Estou simplesmente tentando ser melhor do que a pessoa que fui ontem.",
+"Se você quer ser interessante, você tem que se interessar.",
+"É pra ser difícil. Se fosse fácil todo mundo faria.",
+"Não se preocupe se você ainda não chegou onde deseja. Grandes coisas levam tempo.",
+"Se for importante você dá um jeito. Se não for, dá um jeito.",
+"A maioria das pessoas superestima o que pode fazer em um ano e subestima o que pode fazer em dez anos.",
+"Um objetivo sem um plano é apenas um desejo.",
+"mude suas 24 horas e mudará sua vida",
+"Pare de pensar que você não é qualificado, não está em forma ou não tem experiência suficiente",
+"O crescimento ocorre quando você começa a fazer coisas para as quais não está qualificado.",
+"Seja quem você é e diga o que sente, porque quem se importa não importa, e quem importa não se importa.",
+"Daqui a vinte anos você ficará mais desapontado com as coisas que não fez do que com as que fez. Portanto, jogue fora os bois. Navegue para longe do porto seguro. Pegue os ventos alísios em suas velas. Explore. Sonhe. Descubra.",
 ];
 
 const INTERVAL = 86400000;
