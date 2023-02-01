@@ -1,0 +1,9 @@
+<div id="idcd883d40c5238" 
+a='{"t":"s","v":"1.2","lang":"es","locs":[4497],"ssot":"c","sics":"ms","cbkg":"rgba(152,152,152,1)",
+"cfnt":"rgba(254,254,254,1)",
+"slpd":14,"slgp":17,"slbr":9,"sfnt":"a","sdr":"tb","slfs":31,"slis":62}'>
+Fonte de dados meteorológicos: 
+<a href="https://sharpweather.com/es/tiempo_aveiro/">tempo em Aveiro</a>
+</div>
+<script async src="https://static1.sharpweather.com/widgetjs/?id=idcd883d40c5238">
+</script>
